@@ -1,0 +1,41 @@
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+virtualenv/
+.pipenv/
+
+# Dependencies and configuration files
+*.egg-info/
+dist/
+build/
+requirements.txt
+Pipfile.lock
+
+# Logs and output files
+*.log
+logs/
+*.tmp
+
+# Data and media files
+data/
+media/
+
+# Personal configuration files
+*.config
+*.ini
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cache files
+.cache/
+.pytest_cache/
